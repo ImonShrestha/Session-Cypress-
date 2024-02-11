@@ -1,0 +1,23 @@
+[
+    {
+        "case": "Verify with invalid credentials",
+        "username": "yatraonline",
+        "password": "Test@12345"
+    },
+    {   "case": "Verify with invalid credentials",
+        "username": "bovepsa",
+        "password": "Test@12345"
+    },
+    {   "case": "Verify with invalid credentials",
+        "username": "spsatest",
+        "password": "Test@12345"
+    },
+    {   "case": "Verify with invalid credentials",
+        "username": "crtest1",
+        "password": "Test@12345"
+    },
+    {   "case": "Verify with invalid credentials",
+        "username": "publicnongov",
+        "password": "Test@12345"
+    }
+]

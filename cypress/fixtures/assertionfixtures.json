@@ -1,0 +1,29 @@
+[
+    {
+        "case": "Verify login with invalid credentials",
+        "username": "bovepsa",
+        "password": "Test@12345",
+        "locator":    ".Toastify",
+        "expectedOutcome": "Invalid username or password"
+    },
+
+    {
+        "case": "Verify login with no data",
+        "username": "  ",
+        "password": "  ",
+        "locator":    ".mt-1 > .font-normal",
+        "expectedOutcome": "Username cannot include leading and trailing spaces!"
+    },
+
+    {
+        "case": "Verify login with valid data",
+        "username": "yatraonline",
+        "password": "Test@1234",
+        "locator":  ".mt-10 > .font-bold",
+        "expectedOutcome": "Welcome to Office of the Company Registrar"
+    }
+
+
+
+    
+]

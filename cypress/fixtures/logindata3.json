@@ -1,0 +1,27 @@
+{
+    "data":[
+        {
+            "case": "Verify with invalid credentials",
+            "username": "yatraonline",
+            "password": "Test@12345"
+        },
+        {
+            "case": "Verify with invalid credentials",
+            "username": "bovespa",
+            "password": "Test@12345"
+        }
+    ],
+
+    "data2":[
+        {
+            "case": "Verify with invalid credentials",
+            "username": "spsatest",
+            "password": "Test@12345"
+        },
+        {
+            "case": "Verify with invalid credentials",
+            "username": "crtest1",
+            "password": "Test@12345"
+        }
+    ]
+}
